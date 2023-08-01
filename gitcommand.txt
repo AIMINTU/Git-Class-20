@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 configurations:
 git config --global user.name "Aimintu"
 git config --global user.email "aimintu@hotmail.com"
@@ -23,3 +24,6 @@ git push origin main
 
 
 
+=======
+#Fetch and merger changes on directory 
+>>>>>>> fb9b2fb5df564e76275d8940bfdf1cff6c989ba9
