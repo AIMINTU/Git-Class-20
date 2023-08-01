@@ -1,0 +1,25 @@
+configurations:
+git config --global user.name "Aimintu"
+git config --global user.email "aimintu@hotmail.com"
+
+#new repository -git
+git init
+#changes status
+git status# to see all changed files
+# copy local repository
+git clone https://github.com/AIMINTU/Git-Class-20.git
+cd Git-Class-20
+git status
+untracked file:
+add file:
+git add . [same folder's all file]
+git add Gitcommand.txt
+
+server a file sent korar janno:
+git commit message:
+git commit -m "added git command into the file"
+local machine to server or git hub:
+git push origin main
+
+
+
